@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TareaLayout.Ejercicio1"
+             Padding="0, 20, 0, 0"
+             BackgroundColor="#127ac7">
+    <ContentPage.Content >
+        <StackLayout
+            Orientation="Horizontal"
+            Padding="40"
+            Spacing="20"
+            VerticalOptions="Center"
+            HorizontalOptions="Center">
+            
+            <Button Text="Login" BackgroundColor="#1dabf0"/>
+            <Button Text="Register" BackgroundColor="#1dabf0"/>
+            <Label Text="laber 2"/>
+            <Label Text="label 3"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

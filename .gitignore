@@ -1,0 +1,10 @@
+TareaLayout/bin/Debug
+TareaLayout/bin/Release
+TareaLayout/obj/Debug
+TareaLayout/obj/Release
+.vs/TareaLayout
+TareaLayout/bin/TareaLayout.dll
+TareaLayout/bin/TareaLayout.dll.config
+TareaLayout/bin/TareaLayout.pdb
+TareaLayout/obj
+TareaLayout/tmp
