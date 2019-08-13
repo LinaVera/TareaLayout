@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
@@ -16,7 +16,16 @@
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Update="Ejercicio1.xaml">
+    <Compile Update="Ejercicio6.xaml.cs">
+      <DependentUpon>Ejercicio6.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Ejercicio7.xaml.cs">
+      <DependentUpon>Ejercicio7.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Ejercicio6.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>

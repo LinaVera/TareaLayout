@@ -1,0 +1,16 @@
+﻿
+<ContentPage 
+            xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TareaLayout"
+             x:Class="TareaLayout.MainPage">
+    <StackLayout
+            Orientation="Horizontal"
+            Padding="40"
+            Spacing="20"
+            VerticalOptions="Center"
+            HorizontalOptions="Center">
+       
+    </StackLayout>
+
+</ContentPage>
