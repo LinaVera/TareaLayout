@@ -5,12 +5,25 @@
              xmlns:local="clr-namespace:TareaLayout"
              x:Class="TareaLayout.MainPage">
     <StackLayout
+            Orientation="Vertical"
+            Padding="40"
+            Spacing="20"
+            VerticalOptions="Center"
+            HorizontalOptions="Center">
+        <Label Text="nyc_photographer"></Label>
+        <Image Source="http://lorempixel.com/1920/1089/nature/3/"/>
+        <StackLayout
             Orientation="Horizontal"
             Padding="40"
             Spacing="20"
             VerticalOptions="Center"
             HorizontalOptions="Center">
-       
+            <Label Text="Likes" TextColor="Aqua"/>
+            <Label Text="Comment" TextColor="Aqua"/>
+            <Label Text="Share" TextColor="Aqua"/>
+        </StackLayout>
+        <Label Text="700 likes" />
+        <Label Text="This is a shot yesterday in Skanor, Sweden, when driving home, from a couple of days of work in Denmark."/>
     </StackLayout>
 
 </ContentPage>

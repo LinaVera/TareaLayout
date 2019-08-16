@@ -9,9 +9,10 @@ namespace TareaLayout
         public App()
         {
             InitializeComponent();
-
-            MainPage = new Ejercicio1();
+          
+                MainPage = new Ejercicio19_20();
         }
+       
         
         protected override void OnStart()
         {

@@ -3,8 +3,6 @@ C:\Users\Usuario\source\repos\TareaLayout\TareaLayout\TareaLayout\bin\Debug\nets
 C:\Users\Usuario\source\repos\TareaLayout\TareaLayout\TareaLayout\bin\Debug\netstandard2.0\TareaLayout.dll
 C:\Users\Usuario\source\repos\TareaLayout\TareaLayout\TareaLayout\bin\Debug\netstandard2.0\TareaLayout.pdb
 C:\Users\Usuario\source\repos\TareaLayout\TareaLayout\TareaLayout\obj\Debug\netstandard2.0\App.xaml.g.cs
-C:\Users\Usuario\source\repos\TareaLayout\TareaLayout\TareaLayout\obj\Debug\netstandard2.0\Ejercicio1.xaml.g.cs
-C:\Users\Usuario\source\repos\TareaLayout\TareaLayout\TareaLayout\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\Users\Usuario\source\repos\TareaLayout\TareaLayout\TareaLayout\obj\Debug\netstandard2.0\TareaLayout.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\source\repos\TareaLayout\TareaLayout\TareaLayout\obj\Debug\netstandard2.0\TareaLayout.AssemblyInfoInputs.cache
 C:\Users\Usuario\source\repos\TareaLayout\TareaLayout\TareaLayout\obj\Debug\netstandard2.0\TareaLayout.AssemblyInfo.cs
@@ -13,3 +11,7 @@ C:\Users\Usuario\source\repos\TareaLayout\TareaLayout\TareaLayout\obj\Debug\nets
 C:\Users\Usuario\source\repos\TareaLayout\TareaLayout\TareaLayout\obj\Debug\netstandard2.0\TareaLayout.pdb
 C:\Users\Usuario\source\repos\TareaLayout\TareaLayout\TareaLayout\obj\Debug\netstandard2.0\Ejercicio6.xaml.g.cs
 C:\Users\Usuario\source\repos\TareaLayout\TareaLayout\TareaLayout\obj\Debug\netstandard2.0\Ejercicio7.xaml.g.cs
+C:\Users\Usuario\source\repos\TareaLayout\TareaLayout\TareaLayout\obj\Debug\netstandard2.0\Ejercicio12.xaml.g.cs
+C:\Users\Usuario\source\repos\TareaLayout\TareaLayout\TareaLayout\obj\Debug\netstandard2.0\Ejercicio17_20.xaml.g.cs
+C:\Users\Usuario\source\repos\TareaLayout\TareaLayout\TareaLayout\obj\Debug\netstandard2.0\Ejercicio17_18.xaml.g.cs
+C:\Users\Usuario\source\repos\TareaLayout\TareaLayout\TareaLayout\obj\Debug\netstandard2.0\Ejercicio19_20.xaml.g.cs
